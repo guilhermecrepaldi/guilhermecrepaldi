@@ -1,16 +1,19 @@
 # GUILHERME CREPALDI
 
-**`Full-Stack Developer | AI Automation | Data Engineering`**
+**`Python Backend Developer | AI Automation & Multi-Agent Systems | Data Engineering`**
 
 <p align="center">
   <a href="https://linkedin.com/in/guilherme-crepaldi-778b3b237">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:guilhermecrepaldi@gmail.com">
+  <a href="mailto:silvagui8@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/guilhermecrepaldi">
     <img src="https://img.shields.io/github/followers/guilhermecrepaldi?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers"/>
+  </a>
+  <a href="https://crepaldi.online">
+    <img src="https://img.shields.io/badge/Portfolio-crepaldi.online-39ffb6?style=for-the-badge" alt="Portfolio"/>
   </a>
   <img src="https://img.shields.io/badge/Focus-AI%20Automation-blue?style=for-the-badge" alt="Focus"/>
 </p>
@@ -19,9 +22,11 @@
 
 ## 🚀 Sobre Mim
 
-Software Development Student @ **FAM** | Transição de Business Analysis para Tecnologia | São Paulo, Brasil.
+**Python Backend Developer** especializado em **FastAPI, automação com IA e sistemas multi-agent**. 
 
-> Apaixonado por **automação inteligente**, **coding agents** e **pipeline de dados**. Construo sistemas que funcionam 24/7 — de scrapers a agentes autônomos com IA.
+📍 São Paulo, Brasil | 🎓 ADS — FAM (concluído 2026)
+
+> Construo sistemas que funcionam 24/7 — de orquestração de agentes autônomos a pipelines de dados e scrapers inteligentes. 13+ anos de freelancer entregando software do zero.
 
 ---
 
@@ -29,47 +34,52 @@ Software Development Student @ **FAM** | Transição de Business Analysis para T
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-FF6D00?style=flat-square&logo=n8n&logoColor=white"/>
 </p>
 
 ---
 
 ## 📌 Projetos em Destaque
 
-### 🔹 [Hermes 2.0](https://github.com/guilhermecrepaldi/hermes-2.0) ⭐
-> **Orquestração multi-shell com watchdog 24/7, jornal AI automatizado e pipeline de agentes autônomos**
-- Sistema de agentes autônomos com inteligência artificial
-- Watchdog de processos 24/7
-- Pipeline multi-shell com shellz
-- Automação de research em IA
+### 🤖 [NEO HERMES](https://github.com/guilhermecrepaldi/neo-hermes) ⭐
+> **Multi-shell autonomous AI orchestration system with watchdog 24/7, agent pipelines, context compression**
+- Orquestração de agentes de IA (DeepSeek + Ollama)
+- Watchdog 24/7 com auto-recuperação
+- Compressão de contexto via headroom.ai (economia de 66x em tokens)
+- Pipeline de automação de research em IA
+- 3 shells colaborativas com roteamento inteligente de tarefas
 
-### 🔹 [drywall-performance-saas](https://github.com/guilhermecrepaldi/drywall-performance-saas)
-> **SaaS para gestão de performance em drywall — controle de produção e equipes**
-- PHP + MySQL
-- Gestão de produção e equipes
+### 📸 [IG Auto Post](https://github.com/guilhermecrepaldi/ig-auto-post)
+> **Instagram auto-posting with local AI — Ollama generates captions, images, and publishes automatically**
+- Geração de legendas com DeepSeek
+- Templates de imagem com Pillow
+- Publicação automática via instagrapi
+- Custo: ~$0.0001/post
 
-### 🔹 [Crypto-Strategy](https://github.com/guilhermecrepaldi/Crypto-Strategy)
-> **Estratégia de trading automatizada com análise de dados em tempo real**
-- Python + APIs de mercado
-- Análise de dados em tempo real
+### 📊 [ENEM Data Hub](https://github.com/guilhermecrepaldi/enem-data-hub)
+> **Data engineering pipeline for ENEM microdata — download, extract, process, analyze**
+- ETL pipeline completo (extract → transform → load)
+- Export CSV, Parquet, SQLite
+- Pronto para ML e dashboards
 
-### 🔹 [vagas-tech-scraper](https://github.com/guilhermecrepaldi/vagas-tech-scraper)
-> **Scraper de vagas Python no Brasil — Programathor, GeekHunter, LinkedIn**
-- Web scraping com Python
-- Análise de mercado tech brasileiro
+### ⚡ [Web Automator](https://github.com/guilhermecrepaldi/web-automator)
+> **FastAPI web panel to schedule, execute and monitor Python automation tasks**
+- Dashboard com stats em tempo real
+- Agendamento cron, live logs, histórico completo
+- API REST + UI Bootstrap 5 dark
 
-### 🔹 [enem-data-hub](https://github.com/guilhermecrepaldi/enem-data-hub)
-> **Ferramenta para baixar, extrair e processar microdados do ENEM**
-- ETL pipeline
-- Dados governamentais abertos
+### 🔍 [Vagas Tech Scraper](https://github.com/guilhermecrepaldi/vagas-tech-scraper)
+> **Multi-platform Python job scraper — Programathor, GeekHunter, LinkedIn**
+- Web scraping assíncrono com rotação de proxies
+- Análise do mercado tech brasileiro
 
 ---
 
@@ -81,22 +91,19 @@ Software Development Student @ **FAM** | Transição de Business Analysis para T
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermecrepaldi&theme=radical" alt="GitHub Streak" height="180"/>
 </p>
 
----
-
-## 📈 Atividade Recente
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermecrepaldi&theme=react-dark&hide_border=true" alt="Activity Graph" width="95%"/>
 </p>
 
 ---
 
-## 🏆 Conquistas & Certificações
+## 🏆 Conquistas
 
-- 🎓 **Software Development** — FAM (em andamento)
-- 📊 **Business Analysis** — experiência prévia em mercado financeiro
-- 🤖 **AI Agent Architecture** — estudos contínuos em agentes autônomos, pipelines de IA e coding agents
-- 📰 **Automação de Research** — pipeline de notícias AI automatizado (ver `hermes-2.0`)
+- 🎓 **ADS — FAM** (2023-2026) — concluído
+- 🎓 **Matemática Aplicada — IME-USP** (2010-2012)
+- 🤖 **NEO HERMES** — sistema autônomo multi-agent com orquestração de IA
+- 📰 **Jornal automatizado** — pipeline de research em IA 24/7
+- 💼 **14 anos experiência corporativa** — B2B, gestão, processos
 
 ---
 
@@ -104,14 +111,15 @@ Software Development Student @ **FAM** | Transição de Business Analysis para T
 
 | Canal | Link |
 |-------|------|
-| 📧 Email | guilhermecrepaldi@gmail.com |
-| 💼 LinkedIn | [guilherme-crepaldi](https://linkedin.com/in/guilherme-crepaldi-778b3b237) |
+| 📧 Email | silvagui8@gmail.com |
+| 💼 LinkedIn | [guilhermecrepaldi](https://linkedin.com/in/guilherme-crepaldi-778b3b237) |
+| 🌐 Portfolio | [crepaldi.online](https://crepaldi.online) |
 | 🐙 GitHub | [guilhermecrepaldi](https://github.com/guilhermecrepaldi) |
 
 ---
 
 <p align="center">
-  <i>"Código que funciona 24/7, pipelines que entregam, agentes que aprendem."</i>
+  <i>"Autonomous systems that deliver. Agents that learn. Code that runs 24/7."</i>
 </p>
 
 <p align="center">
