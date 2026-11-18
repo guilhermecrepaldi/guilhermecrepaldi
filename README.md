@@ -1,43 +1,38 @@
 # Guilherme Crepaldi
 
-**Backend & Applied AI Engineer | Python, .NET 8, APIs, SaaS, GCP**
+Suporte de Sistemas | QA Júnior | Estudante de ADS | São Paulo
 
-São Paulo, Brazil · Open to remote, hybrid and relocation opportunities
+## Quem sou
 
-[LinkedIn](https://br.linkedin.com/in/guilhermecrepaldi) · [Performance Lab / KNOTEN](https://performancelab.dev/) · [Email](mailto:silvagui8@gmail.com)
+Estudante de Análise e Desenvolvimento de Sistemas (conclusão prevista em dez/2026), em transição para TI. 13 anos atendendo clientes empresariais com uso diário de ERP, mais de 40 sites publicados como webdesigner e projetos de automação entregues a clientes pagantes. Busco uma vaga em suporte de sistemas ou QA para aprender com o time e crescer tecnicamente dentro da empresa.
 
-## About
+## O que sei fazer hoje
 
-I am the founder and sole human engineer behind **Performance Lab**, where I build and operate **KNOTEN**, a production B2B SaaS platform. My work spans product architecture, backend and frontend development, PostgreSQL, cloud deployment, security, payments, telemetry, observability, testing and production support.
+- SQL básico (consultas; projeto acadêmico MySQL/phpMyAdmin)
+- Excel (fórmulas, conferência, comparativos)
+- ERP Microdata (usuário)
+- HTML/CSS
+- WordPress/Elementor
+- Git básico
+- Leitura de logs
+- Automação com PhantomBuster
+- Desenvolvimento assistido por IA
 
-I also build practical AI systems: multi-provider model orchestration, custom agents, tool use, structured outputs, persistent context, embeddings/vector search, cost telemetry and human approval for consequential actions. AI tools support my engineering workflow; architecture and product decisions remain under human ownership.
+## Projetos
 
-## Core stack
+- **Interview Engine** — entrevista por voz com API da OpenAI; conduz perguntas, analisa respostas e gera relatório de auditoria. Em desenvolvimento; desenvolvido com assistência de IA.
+- **KNOTEN** — ERP modular com IA para pequenas empresas. Descontinuado — sem usuários; desenvolvido com assistência de IA.
 
-- **Backend:** Python, FastAPI, C#/.NET 8, ASP.NET Core, PHP, REST APIs, webhooks
-- **Data:** PostgreSQL, SQL, EF Core/Npgsql, schema design, migrations and audit trails
-- **Cloud & reliability:** Google Cloud Run, Docker, CI/CD, health/readiness, retries, idempotency, logging and telemetry
-- **Product engineering:** React 19, TypeScript, Vite, Vitest, Playwright and shadcn-style UI
-- **Applied AI:** LLM integrations, custom agent orchestration, MCP/tool use, JSON Schema/Pydantic, model routing, memory and observability
+## Estudando agora
 
-## Selected work
+- Tecnólogo em Análise e Desenvolvimento de Sistemas — Centro Universitário FAM; conclusão prevista em dez/2026.
+- Desenvolvimento Backend — IBM; em andamento.
 
-### [Performance Lab / KNOTEN](https://performancelab.dev/)
+## Idiomas
 
-A modular, multi-tenant B2B platform connecting telemetry, sales operations, conversations, workspace, tasks and operational recovery. I built the product end to end as its sole human engineer, including authorization boundaries, auditability, payments, cloud deployment and an advisory AI layer with explicit human authority.
+- Inglês — leitura técnica intermediária, conversação básica.
+- Espanhol — conversacional (uso profissional com clientes).
 
-### [Neo Hermes](https://github.com/guilhermecrepaldi/neo-hermes)
+São Paulo, SP · Remoto ou híbrido/presencial na Grande SP
 
-Python 3.11+ AI orchestration system with custom agents, multi-provider routing, local and cloud models, watchdog/self-recovery, persistent memory, telemetry, cost tracking, hooks, cron workflows and automated tests.
-
-### Developer tools
-
-My public repositories include an API mock server, schema migrator, CSV transformer, CNPJ enrichment utilities, SQL analysis tools, invoice parsing, job automation and other small backend/data projects.
-
-## Education
-
-- **Systems Analysis and Development - FAM (2023-2026):** final stage, two courses pending; expected completion December 2026
-- **Applied Mathematics coursework - IME-USP (2010-2012)**
-- **Electronics Technician - ETESP**
-
-Brazilian citizen · Available immediately · English B1 · Spanish basic
+[LinkedIn](https://linkedin.com/in/guilhermecrepaldi) · [Behance](https://www.behance.net/) · [E-mail](mailto:silvagui8@gmail.com)
