@@ -35,4 +35,4 @@ Estudante de Análise e Desenvolvimento de Sistemas (conclusão prevista em dez/
 
 São Paulo, SP · Remoto ou híbrido/presencial na Grande SP
 
-[LinkedIn](https://linkedin.com/in/guilhermecrepaldi) · [Behance](https://www.behance.net/) · [E-mail](mailto:silvagui8@gmail.com)
+[LinkedIn](https://linkedin.com/in/guilhermecrepaldi) · [E-mail](mailto:silvagui8@gmail.com)
